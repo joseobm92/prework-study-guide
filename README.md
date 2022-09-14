@@ -4,10 +4,10 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation? My motivation was to learn as much as possible about HTML, CSS, Git, and JavaScript before starting my bootcamp, so i'll have the neccesary skills and basic knowledge to do well from Day 1.
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") I built this project to put my newly developed skills and knowledge on HTML, CSS, Git, and Javascript in practice.
-- What problem does it solve? The main problem it solves its showcasing all the important information I have learned during my prework study guide.
-- What did you learn? I learned basics about HTML, CSS, Git, and Javascript! I also learned how to navigate through the computer Terminal, how to interact between Github and working locally.
+-  My motivation was to learn as much as possible about HTML, CSS, Git, and JavaScript before starting my bootcamp, so i'll have the neccesary skills and basic knowledge to do well from Day 1.
+- I built this project to put my newly developed skills and knowledge on HTML, CSS, Git, and Javascript in practice.
+-  The main problem it solves its showcasing all the important information I have learned during my prework study guide.
+- I learned basics about HTML, CSS, Git, and Javascript! I also learned how to navigate through the computer Terminal, how to interact between Github and working locally.
 
 ## Installation
 
