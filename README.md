@@ -15,7 +15,7 @@ N/A
 
 ## Usage
 
-The Prework Study Guide is devided in 4 different sections: HTML, CSS, Git, and Javascript. Each section includes what I consider are important notes about each topic that can help anyone have a better understanding on the topic. If you also open the Devtools console, we can see the JavaScript running, it will list the topics we learned from prework and choose one topic for us to study first
+The Prework Study Guide is devided in 4 different sections: HTML, CSS, Git, and Javascript. Each section includes what I consider are important notes about each topic that can help anyone have a better understanding on the topic. If you also open the Devtools console, we can see the JavaScript running, it will list the topics we learned from prework and choose one topic for us to study first.
 
 ## Credits
 
